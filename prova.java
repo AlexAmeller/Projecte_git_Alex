@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class multiple7 {
 
 	public static void main(String[] args) {
-		//Declaram un Scanner
+		//Declaram un Scanner 4jfi4jf4i
 		Scanner sc = new Scanner(System.in);
 						
 		//Declaram variable
